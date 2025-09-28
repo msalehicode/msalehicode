@@ -6,4 +6,4 @@ I regularly create and share useful code snippets, scripts and notes. Feel free 
 
 ## 🔥 GitHub Streak:
 [![My Practice Streak](http://typedrill.ir/typedrill/api/githubStreak.php)](http://typedrill.ir/)
-[![My Practice Streak](http://typedrill.ir/typedrill/api/getStreakDays.php?username=Msalehicode&file=irregularVerbs&theme=dark)](http://typedrill.ir/)
+[![My Practice Streak](http://typedrill.ir/typedrill/api3/getStreakDays.php?username=mtx&file=maindb&theme=dark)](http://typedrill.ir/)
