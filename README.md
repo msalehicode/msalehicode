@@ -5,4 +5,4 @@ I regularly create and share useful code snippets, scripts and notes. Feel free 
 - **Linux Essentials** (command & note) [click](https://gist.github.com/msalehicode/e9660dcfb3fae22fea7a1039a70c63a0)
 - **Build Debian Package (.deb)** [click](https://gist.github.com/msalehicode/332688265f4521a881d67bf4175f600e)
 - Table of Content for **Qt6 Android** [click](https://gist.github.com/msalehicode/3c586c4fc5d18675a270470b4df6ef48)
-
+- Qt6 Core intermediate (notes) [click](https://gist.github.com/msalehicode/8aaf0ba8cd6efbba6017ae0dbdd85183)
